@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_69a535865e7be895930444d2b95dde390344b52a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_6d6989dbbc16c624a3a3ba2768a5af544ab0521c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_d2c60109678d7b29541f63cf10ca7c3b559a7a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b45129789d1c6f23e8b8427729235545f0c156ff">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/instant-run_e7ed3b56cbb47c0b13ba05207b61fe0324d8c73d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_1c2c1b00169d4a251d70d8c6c606919ff22e5bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_7214599f23062e840d52352ef4a738857b471034.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_876e8a36711aff449683b597fbf4c29a3681d797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ad55b1e9964b11b7e84312bf0834b155d53f6e15">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_294654335c0820a292ffcfb669276d5e78efa1c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_aa3d7d2a20adfc0870d73fea18f4e1151a476339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_a96f25b1c6bfc7b16c9a83aea7c9d71564182af2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_ee88c81c7d6d41206d7042a3c926cdc26d30110c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_7991129eae1cfefda89c7ba1621f49a27bcbca62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ec799525637d1d7aec7133dad9f6a3251d4f2aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_440fd106bda793eeac5be8cc3c054d81ff2e8719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_1540dd4df9992302f8b51f1ff75e2738153f00fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6e14ebda9f26fc038c41d3318e0aa3caaaa01ee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/victorfernandes/Documents/Github/Login/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_c90bf45c04a988d3c8ecf143ca345e89dea75785.jar" />
+    </item>
+
+</items>

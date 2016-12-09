@@ -22,9 +22,17 @@
         android:id="@+id/password"
         android:layout_below="@id/username"/>
     <Button
-        android:layout_width="300dp"
+        android:id="@+id/login"
+        android:layout_width="150dp"
         android:layout_height="60dp"
         android:layout_below="@id/password"
         android:text="Log In"
         android:onClick="Log_In"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_below="@id/password"
+        android:text="Registry"
+        android:layout_toRightOf="@id/login"
+        android:onClick="Registry_"/>
 </RelativeLayout>

@@ -1,3 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-747d341e01d75da40e089fc35672259b58dbacf8.jar" />
+    </item>
+    <item
+        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1-5189148ff5c8b118c4fd51683a08e3f40fa024da.jar" />
+    </item>
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-ff49bc2d5aff7483eaf8ac610d3167e72b319155.jar" />
+    </item>
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\classes-5911b684f9815a37fd0d582ecf5c2de23af0de1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\classes-9a6d7d9e1aa7c0230e9cf9633b3b7b3d06d703f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\classes-54b4a310706680402002e377c413f3d9d199197c.jar" />
+    </item>
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\classes-734f3d022eed3ca294717c8c55b98675dc4b9489.jar" />
+    </item>
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\classes-6a61e0b4df29b5ddf7ae9a68663e9d8be7b86430.jar" />
+    </item>
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-a3fa0761d61349ea488cdaacf5e3eb426107c5ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\classes-1414b938f45ede33810dd92b0b2c44542af8c826.jar" />
+    </item>
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\classes-70c1c78a6dd87d14e8883847e12d0a53d939855f.jar" />
+    </item>
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\classes-db9ca2bf47c7708c85ec5a5637fea9b17fad8dff.jar" />
+    </item>
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\classes-529601f84b76079b468dee4c7fce8b11f9780bf9.jar" />
+    </item>
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-eeb79d50c7b3f694e18bf72dca1ea20ae1938471.jar" />
+    </item>
+    <item
+        jar="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\victor.fernandes\LoginJamv2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-6203cfb5d6a9c2da7e51aa2bf9dbb7fdb7314184.jar" />
+    </item>
+
+</items>

@@ -60,6 +60,8 @@ public class HTTPSendToServer
             conn.setDoInput(true);
             conn.connect();
 
+            Log.d("PARAMNSSSSSS", params);
+
             byte[] bytes = params.getBytes("UTF8");
             OutputStream out = new BufferedOutputStream(conn.getOutputStream());
             out.write(bytes);

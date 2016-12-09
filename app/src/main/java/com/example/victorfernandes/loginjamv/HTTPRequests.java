@@ -46,7 +46,7 @@ public class HTTPRequests implements Runnable
         params.put("login", login);
         params.put("pass", pass);
 
-        StartThread("RThread");
+        StartThread("RegistryThread");
     }
 
     private void StartThread(String name)

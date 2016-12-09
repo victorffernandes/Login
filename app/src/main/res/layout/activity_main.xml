@@ -20,6 +20,7 @@
         android:layout_height="40dp"
         android:hint="Insert your Password"
         android:id="@+id/password"
+        android:inputType="textPassword"
         android:layout_below="@id/username"/>
     <Button
         android:id="@+id/login"

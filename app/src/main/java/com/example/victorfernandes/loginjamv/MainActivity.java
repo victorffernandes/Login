@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity implements ServiceConnection
     private Intent i;
     private Handler handler;
     private int pingTime;
+    String username;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -54,14 +55,14 @@ public class MainActivity extends AppCompatActivity implements ServiceConnection
     }
 
     public void Log_In(View v){
-        String username = ((EditText) findViewById(R.id.username)).getText().toString();
+        username = ((EditText) findViewById(R.id.username)).getText().toString();
         String password = ((EditText) findViewById(R.id.password)).getText().toString();
         if(username!="" && password!="")
         Login(username,password);
     }
 
     public void Registry_(View v){
-        String username = ((EditText) findViewById(R.id.username)).getText().toString();
+        username = ((EditText) findViewById(R.id.username)).getText().toString();
         String password = ((EditText) findViewById(R.id.password)).getText().toString();
         if(username!="" && password!="")
             Registry(username,password);
@@ -109,6 +110,8 @@ public class MainActivity extends AppCompatActivity implements ServiceConnection
         {
             if(currService == HTTPRequests.Services.CONNECT) ConnectionResponse(myService.GetRequests().ServerResponse());
             else if (currService == HTTPRequests.Services.LOGIN) LoginResponse(myService.GetRequests().ServerResponse());
+            else if (currService == HTTPRequests.Services.REGISTRY )
+                Toast.makeText(this, "You've been registered as: " + username,Toast.LENGTH_LONG).show();
         }
         else
         {
@@ -147,7 +150,6 @@ public class MainActivity extends AppCompatActivity implements ServiceConnection
 
     private void LoginResponse(Object serverResponse)
     {
-        //labelResult.setText(!serverResponse.toString().equals("") ? serverResponse.toString() : "User not found!!");
-        //labelResult.setVisibility(View.VISIBLE);
+        Toast.makeText(this, "You are logged as : " + serverResponse,Toast.LENGTH_SHORT).show();
     }
 }
